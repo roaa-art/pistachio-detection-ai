@@ -1,0 +1,8 @@
+# Use forward slashes here to avoid path errors
+path: C:/Users/Admin/processed_data  
+train: train/images
+val: val/images
+
+# Classes
+nc: 2
+names: ['Siirt', 'Kirmizi']
